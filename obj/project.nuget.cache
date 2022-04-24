@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "DqHFWDP2Qjp3KT+ZpocEWF/eSE0L4X9GFgWsFFZSqhA0htrwmax6cj48mwBd9J0+LgYv2YVjz5bYslLxNMeJDw==",
+  "success": true,
+  "projectFilePath": "/home/runner/darkoak/darkoak.csproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/microsoft.data.sqlite/6.0.4/microsoft.data.sqlite.6.0.4.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.data.sqlite.core/6.0.4/microsoft.data.sqlite.core.6.0.4.nupkg.sha512",
+    "/home/runner/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.6/sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
+    "/home/runner/.nuget/packages/sqlitepclraw.core/2.0.6/sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "/home/runner/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.6/sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
+    "/home/runner/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.0.6/sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
+    "/home/runner/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
